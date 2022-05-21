@@ -29,7 +29,7 @@ public class Person {
         return sex;
     }
 
-    public Education getEducation(Education higher) {
+    public Education getEducation() {
         return education;
     }
 
